@@ -3,6 +3,9 @@
 **Languages: English · [Français](README.md)**  
 **Catalog status: Preview**
 
+**Proprietary documentation — all rights reserved.** No reuse beyond GitHub platform functions is authorized without the rights holders' written consent. [Rights notice](NOTICE.md).
+[Elyne Corp product map](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 A resident local AI that separates its inference model from persistent memory, documents, and history.
 
 ## Presented capabilities

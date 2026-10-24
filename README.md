@@ -3,6 +3,9 @@
 **Langues : Français · [English](README.en.md)**  
 **Statut affiché au catalogue : Preview**
 
+**Documentation propriétaire — tous droits réservés.** Aucun réemploi hors des fonctions de GitHub n'est autorisé sans l'accord écrit des titulaires des droits. [Notice de droits](NOTICE.md).
+[Carte des produits Elyne Corp](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 Une IA locale résidente qui sépare son modèle d'inférence de sa mémoire, de ses documents et de son histoire persistante.
 
 ## Capacités présentées
